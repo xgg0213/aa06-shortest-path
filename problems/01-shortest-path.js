@@ -29,7 +29,7 @@ const adjList = {
 //    The enqueued array is the current path.
 // 2. Create a set to store visited nodes
 // 3. While the queue is not empty, repeat steps 4-6
-// 4. Dequeue the first path, and save it in a variable
+// 4. [DO NOT NEED THIS!!]Dequeue the first path, and save it in a variable
 // 5. Save the last node in the path in a variable (DO NOT pop it)
 // 6. IS THIS NODE THE THING? If so, stop and return a result. Else, continue.
 // 7. For each unvisited neighbor of the last node:
